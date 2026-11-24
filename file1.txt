@@ -1,5 +1,6 @@
 line1
-line2 
+line2 # conflicts
 line3 # made some changes to know about merge conflicts
 line4 # Again did some changes
+line
 line5
