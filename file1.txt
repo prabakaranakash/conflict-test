@@ -1,4 +1,4 @@
 line1
 line2
 line3 # made some changes to know about merge conflicts
-line4
+line4 # Again did some changes
